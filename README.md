@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate developer from Porto, Portugal</h3>
 
-- 🔭 I’m currently working on [Nomadity](https://github.com/franmendonca/nomadity)
+- 🔭 I’m currently working on improving my final project @Le Wagon [Nomadity](https://github.com/franmendonca/nomadity)
 
 - 🌱 I’m currently learning **Ruby on Rails and React**
 
