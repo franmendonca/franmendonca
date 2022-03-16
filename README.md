@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on improving my final project @Le Wagon [Nomadity](https://github.com/franmendonca/nomadity);
 
-- 🌱 I’m currently learning **Ruby on Rails and React**;
+- 🌱 I’m currently learning **Ruby on Rails** and **React**;
 
 - 👨‍💻 All of my projects are available [here](https://shrouded-filament-b63.notion.site/Francisco-Mendon-a-729e49f05b454c70851fd0dc4a90131a);
 
