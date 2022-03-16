@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails and React**
 
-- 👨‍💻 All of my projects are available at [My portfolio](https://shrouded-filament-b63.notion.site/Francisco-Mendon-a-729e49f05b454c70851fd0dc4a90131a)
+- 👨‍💻 All of my projects are available [here](https://shrouded-filament-b63.notion.site/Francisco-Mendon-a-729e49f05b454c70851fd0dc4a90131a)
 
 - 📫 How to reach me **franciscomendonca8@gmail.com**
 
