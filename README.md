@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate developer from Porto, Portugal</h3>
 
-- 🔭 I’m currently working on [Nomadity](https://github.com/franmendonca/nomadity)
+- 🔭 I’m currently working as a City Manager at [Le Wagon Porto](https://github.com/franmendonca/nomadity](https://www.lewagon.com/porto))
 
-- 🌱 I’m currently learning **Ruby on Rails and Javascript**
+- 🌱 I’m currently learning **Product Management**
 
 - 👨‍💻 All of my projects are available at [https://shrouded-filament-b63.notion.site/Francisco-Mendon-a-729e49f05b454c70851fd0dc4a90131a](https://shrouded-filament-b63.notion.site/Francisco-Mendon-a-729e49f05b454c70851fd0dc4a90131a)
 
