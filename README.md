@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **franciscomendonca8@gmail.com**
 
-- ⚡ Fun fact **In my free time I compose ambient music, you can reach me in Bandcamp under FM Volt.**
+- ⚡ Fun fact **In my free time I compose ambient music, you can reach me on Bandcamp under [FM Volt]([https://github.com/franmendonca/nomadity](https://www.lewagon.com/porto)](https://fmvolt.bandcamp.com/track/views-of-tomorrow)).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
