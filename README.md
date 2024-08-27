@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate developer from Porto, Portugal</h3>
 
-- 🔭 I’m currently working as a City Manager at [Le Wagon Lisbon](https://www.lewagon.com/lisbon)
+- 🔭 I’m currently working as City Manager at [Le Wagon Lisbon](https://www.lewagon.com/lisbon)
 
 - 🌱 I’m currently learning **Product Management and Prompt Engineering**
 
